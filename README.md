@@ -36,4 +36,4 @@ The product consist of the following features:
 5. Application is started. 
 
 
-demo of the project : 
+demo of the project : https://drive.google.com/file/d/1pUlNntQYFlpagHyjez5iPQPFGNepoDUY/view?usp=sharing
